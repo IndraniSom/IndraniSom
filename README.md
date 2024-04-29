@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indranisom" alt="indranisom" /></a> </p>
 
-- 🌱 I’m currently learning **React Native,Tailwind CSS**
+- 🌱 I’m currently learning **NodeJs**
 
 - 💬 Ask me about **Web Dev, Figma Design,Object Oriented programming**
  <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
